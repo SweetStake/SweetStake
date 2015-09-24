@@ -1,0 +1,9 @@
+Building SweetStake
+
+See doc/readme-qt.rst for instructions on building SweetStake QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SweetStake.
+
+See doc/build-*.txt for instructions on building sweetstaked,
+the intended-for-services, no-graphical-interface, reference
+implementation of SweetStake.
